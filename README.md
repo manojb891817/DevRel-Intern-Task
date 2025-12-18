@@ -20,11 +20,8 @@ Includes:
 - 2 LinkedIn post drafts  
 - 1 blog outline  
 - 10 FAQs inspired by competitor positioning  
-- Final market and positioning summary  
-
-### 3. Resume
-📄 **Manoj B – Resume.pdf**
-
+- Final market and positioning summary
+  
 ## 🧠 Approach
 I focused on:
 - Understanding where each tool fits in the SDLC  
